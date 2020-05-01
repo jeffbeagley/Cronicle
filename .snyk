@@ -1,0 +1,68 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.14.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-567746:
+    - async > lodash:
+        patched: '2020-05-01T03:21:29.612Z'
+    - pixl-server-web > async > lodash:
+        patched: '2020-05-01T03:21:29.612Z'
+    - pixl-tools > async > lodash:
+        patched: '2020-05-01T03:21:29.612Z'
+    - pixl-server > async > lodash:
+        patched: '2020-05-01T03:21:29.612Z'
+    - pixl-server-storage > async > lodash:
+        patched: '2020-05-01T03:21:29.612Z'
+    - pixl-config > pixl-tools > async > lodash:
+        patched: '2020-05-01T03:21:29.612Z'
+    - pixl-logger > pixl-tools > async > lodash:
+        patched: '2020-05-01T03:21:29.612Z'
+    - pixl-mail > pixl-tools > async > lodash:
+        patched: '2020-05-01T03:21:29.612Z'
+    - pixl-server > pixl-tools > async > lodash:
+        patched: '2020-05-01T03:21:29.612Z'
+    - pixl-server-api > pixl-tools > async > lodash:
+        patched: '2020-05-01T03:21:29.612Z'
+    - pixl-server-storage > pixl-tools > async > lodash:
+        patched: '2020-05-01T03:21:29.612Z'
+    - pixl-server-user > pixl-tools > async > lodash:
+        patched: '2020-05-01T03:21:29.612Z'
+    - pixl-server-api > pixl-server > async > lodash:
+        patched: '2020-05-01T03:21:29.612Z'
+    - pixl-server-storage > pixl-server > async > lodash:
+        patched: '2020-05-01T03:21:29.612Z'
+    - pixl-server-user > pixl-server > async > lodash:
+        patched: '2020-05-01T03:21:29.612Z'
+    - pixl-server-web > pixl-server > async > lodash:
+        patched: '2020-05-01T03:21:29.612Z'
+    - pixl-server > pixl-config > pixl-tools > async > lodash:
+        patched: '2020-05-01T03:21:29.612Z'
+    - pixl-server > pixl-logger > pixl-tools > async > lodash:
+        patched: '2020-05-01T03:21:29.612Z'
+    - pixl-server-user > pixl-mail > pixl-tools > async > lodash:
+        patched: '2020-05-01T03:21:29.612Z'
+    - pixl-server-api > pixl-server > pixl-tools > async > lodash:
+        patched: '2020-05-01T03:21:29.612Z'
+    - pixl-server-storage > pixl-server > pixl-tools > async > lodash:
+        patched: '2020-05-01T03:21:29.612Z'
+    - pixl-server-user > pixl-server > pixl-tools > async > lodash:
+        patched: '2020-05-01T03:21:29.612Z'
+    - pixl-server-web > pixl-server > pixl-tools > async > lodash:
+        patched: '2020-05-01T03:21:29.612Z'
+    - pixl-server-api > pixl-server > pixl-config > pixl-tools > async > lodash:
+        patched: '2020-05-01T03:21:29.612Z'
+    - pixl-server-storage > pixl-server > pixl-config > pixl-tools > async > lodash:
+        patched: '2020-05-01T03:21:29.612Z'
+    - pixl-server-user > pixl-server > pixl-config > pixl-tools > async > lodash:
+        patched: '2020-05-01T03:21:29.612Z'
+    - pixl-server-web > pixl-server > pixl-config > pixl-tools > async > lodash:
+        patched: '2020-05-01T03:21:29.612Z'
+    - pixl-server-api > pixl-server > pixl-logger > pixl-tools > async > lodash:
+        patched: '2020-05-01T03:21:29.612Z'
+    - pixl-server-storage > pixl-server > pixl-logger > pixl-tools > async > lodash:
+        patched: '2020-05-01T03:21:29.612Z'
+    - pixl-server-user > pixl-server > pixl-logger > pixl-tools > async > lodash:
+        patched: '2020-05-01T03:21:29.612Z'
+    - pixl-server-web > pixl-server > pixl-logger > pixl-tools > async > lodash:
+        patched: '2020-05-01T03:21:29.612Z'
