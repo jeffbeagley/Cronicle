@@ -32,7 +32,7 @@
 		"jquery": "2.2.4",
 		"font-awesome": "4.7.0",
 		"mdi": "1.9.33",
-		"chart.js": "2.7.1",
+		"chart.js": "2.9.4",
 		"moment": "2.18.1",
 		"moment-timezone": "0.4.1",
 		"jstimezonedetect": "1.0.6",
