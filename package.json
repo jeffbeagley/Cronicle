@@ -22,7 +22,7 @@
 		"scheduler"
 	],
 	"dependencies": {
-		"async": "2.6.0",
+		"async": "3.2.2",
 		"socket.io": "1.7.3",
 		"socket.io-client": "1.7.3",
 		"mkdirp": "0.5.1",
