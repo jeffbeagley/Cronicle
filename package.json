@@ -23,7 +23,7 @@
 	],
 	"dependencies": {
 		"async": "2.6.0",
-		"socket.io": "1.7.3",
+		"socket.io": "2.5.0",
 		"socket.io-client": "1.7.3",
 		"mkdirp": "0.5.1",
 		"glob": "5.0.15",
