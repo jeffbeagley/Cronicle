@@ -36,7 +36,7 @@
 		"moment": "2.18.1",
 		"moment-timezone": "0.4.1",
 		"jstimezonedetect": "1.0.6",
-		"netmask": "1.0.6",
+		"netmask": "2.0.1",
 		"shell-quote": "1.6.1",
 		"bcrypt-node": "0.1.0",
 		"pixl-args": "^1.0.0",
