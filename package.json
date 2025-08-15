@@ -51,7 +51,7 @@
 		"pixl-perf": "^1.0.0",
 		"pixl-server": "^1.0.0",
 		"pixl-server-storage": "^1.0.0",
-		"pixl-server-web": "^1.0.0",
+		"pixl-server-web": "^2.0.15",
 		"pixl-server-api": "^1.0.0",
 		"pixl-server-user": "^1.0.0"
 	},
